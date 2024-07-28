@@ -1,9 +1,11 @@
 import Banner from "./Banner";
+import Details from "./Details";
 
 const Home = () => {
     return (
         <div>
-            <Banner/>
+            <Banner />
+            <Details/>
         </div>
     );
 };

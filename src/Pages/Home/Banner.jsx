@@ -6,7 +6,7 @@ const Banner = () => {
       <div className="bg-[#F57B20] bg-opacity-60 p-6 pt-12">
         <div className="max-w-screen-lg mx-auto flex flex-col md:flex-row opacity-100 gap-8 p-5">
           <div className="md:flex-1">
-            <img className="md:w-[500px]" src={banner} alt="" />
+            <img className="md:w-[500px] rounded-xl" src={banner} alt="" />
           </div>
           <div className="space-y-6 text-center md:flex-1">
             <h3 className="font-bold text-xl">
