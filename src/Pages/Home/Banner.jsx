@@ -24,7 +24,7 @@ const Banner = () => {
             <p className="border-2 text-[#522DAD] border-black p-2 text-2xl font-bold">
               ৩০% ছাড়ে হাদিয়া ৪৮০/- টাকা
             </p>
-             <button className="bg-[#08B01F] w-full text-white text-2xl rounded-md px-4 py-3">
+            <button className="bg-[#08B01F] w-full text-white text-2xl rounded-md px-4 py-3">
               অর্ডার করতে এখানে ক্লিক করুন
             </button>
           </div>
